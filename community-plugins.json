@@ -64433,5 +64433,12 @@
     "author": "Abdulkader Safi",
     "description": "Draw charts from a markdown table or from note properties, in your theme's colours. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "abdulkader-safi/obsidian-s-chart-plugins"
+  },
+  {
+    "id": "grid-diary",
+    "name": "格间日记",
+    "author": "ko",
+    "description": "问题引导式日记：九宫格记录，右侧日历与列表，下方时间流，支持 Markdown、图片、模板、自动保存",
+    "repo": "3388038686-oss/obsidian-gezhi-diary"
   }
 ]
